@@ -1,7 +1,7 @@
 /**
- * Topen
+ * Biodata_Esatovin_1C_08
  */
-public class BiodataEsatovin {
+public class Biodata_Esatovin_1C_08 {
 
     public static void main(String[] args) {
         System.out.println("Nama    :  Esatovin Ebenhaezer Victoria ");
