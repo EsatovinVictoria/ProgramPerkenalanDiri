@@ -1,4 +1,3 @@
-package Pertemuan2;
 
 public class Biodata_GunawanWibisono_1C_11 {
     public static void main(String[] args) {
