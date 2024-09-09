@@ -1,8 +1,4 @@
-/**
- * Biodata_Esatovin_1C_08
- */
 public class Biodata_EsatovinEbenhaezerVictoria_1C_08 {
-
     public static void main(String[] args) {
         System.out.println("Nama    :  Esatovin Ebenhaezer Victoria ");
         System.out.println("NIM     :  244107020228");
