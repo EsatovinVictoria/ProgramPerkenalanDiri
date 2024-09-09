@@ -1,7 +1,7 @@
 /**
  * Topen
  */
-public class Topen {
+public class BiodataEsatovin {
 
     public static void main(String[] args) {
         System.out.println("Nama    :  Esatovin Ebenhaezer Victoria ");
